@@ -16,3 +16,7 @@ You need to change the URL from it's client apk to point to your server as it re
 I prefer debian-based Linux distribution to serve the backend for ISN
 
 Must have domain name, cloudflared tunnel if you want to serve it locally and if you are behind ISP's CGNAT.
+
+# Issues
+
+As this is under development, the apk can crash if you select a product, as I'm trying to figure out some things in a decompiled code, so as to tune up the backend server to properly sync with the client.

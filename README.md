@@ -20,6 +20,10 @@ Must have domain name, as most of the domain registrar offers cheap .online, .as
 
 NGINX/Apache cookers (config your own).
 
+# Language used:
+
+The only backend that runs the server emulator is PHP and SQLite for database, as it is lightweight and fast.
+
 # Feature for now:
 
 - A webmaster can add product and category list.
@@ -32,3 +36,7 @@ NGINX/Apache cookers (config your own).
 # Issues
 
 As this is under development, the apk can crash if you select a product, as I'm trying to figure out some things in a decompiled code, so as to tune up the backend server to properly sync with the client.
+
+# Where is the source code?
+
+For now, only category and product list is available into the codebase. The login system, add to cart and purchasing system is under development.

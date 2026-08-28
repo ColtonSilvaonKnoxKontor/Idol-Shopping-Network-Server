@@ -33,11 +33,13 @@ The only backend that runs the server emulator is PHP and SQLite for database, a
 # Feature for now:
 
 - A webmaster can add product and category list.
-
-# To-do
-
 - Add buyer and seller login system
 - Direct customer support chat system to silvasystems server
+
+# Todo
+
+- Mock ordering, payment and delivery system
+- Seller account system and have ability for seller to add their product.
 
 # Issues
 

@@ -50,3 +50,35 @@ For now, only category and product list is available into the codebase. The logi
 # Disclaimer and Legal Notice
 
 Refer at [this page](/DISCLAIMER.md).
+
+================================================================================
+
+MANDATORY NOTICE: PLEASE READ BEFORE DOWNLOADING, CLONING, OR RUNNING THIS CODE
+
+By accessing, downloading, cloning, or using any part of this repository (including
+the server emulator source code, database schemas, and modified APK binaries), you
+expressly acknowledge and agree to the following terms:
+
+1. STRICTLY FOR RESEARCH & PRESERVATION ONLY:
+   This project is an independent educational and historical software preservation
+   sandbox. It is NOT for commercial use and has NO connection to the original
+   trademark holders.
+
+2. ZERO REAL MONETARY VALUE:
+   All wallet balances, orders, products, COD transactions, and phone numbers are
+   100% simulated dummy data with ZERO cash value.
+
+3. STRICT PROHIBITION AGAINST ILLEGAL USE:
+   You are strictly forbidden from deploying or modifying this project for:
+   - Scams, phishing, identity theft, or deceptive commercial schemes.
+   - Any activity violating Republic Act No. 10175 (Cybercrime Prevention Act),
+     RA 12010 (Anti-Financial Account Scamming Act), or applicable local laws.
+
+4. USER RESPONSIBILITY & DISCLAIMER:
+   The author assumes zero liability for any third-party misuse of this code. If you
+   deploy this server, you do so entirely at your own risk and responsibility.
+
+-> You MUST read the full legal terms and compliance notes in DISCLAIMER.md before
+   installing or running this server. If you do not agree, you are not authorized
+   to use this project.
+================================================================================

@@ -8,6 +8,12 @@ Idol Shopping Network was the e-commerce platform launched in 2021 by TV persona
 
 Currently my server for Idol Shopping Network is active: https://isn.silvasystems.online, whereas my main website related for tarpits and honeypots is: https://silvasystems.online.
 
+# Screenshots:
+
+<img width="720" height="1600" alt="Screenshot_20260828-222600" src="https://github.com/user-attachments/assets/ca071d01-6650-4a62-9a5f-394041c160f4" />
+<img width="720" height="1600" alt="Screenshot_20260828-222553" src="https://github.com/user-attachments/assets/8bac6874-abf0-4e32-8048-67fafaf0cb41" />
+
+
 # Requirements:
 
 You need to change the URL from it's client apk to point to your server as it requires experience in APK modding, unless you hijack the dns so that the url will redirect to your server which you don't have to modify the apk. Luckily you may download the ISN modified version which the URL points to my server.
@@ -40,3 +46,7 @@ As this is under development, the apk can crash if you select a product, as I'm 
 # Where is the source code?
 
 For now, only category and product list is available into the codebase. The login system, add to cart and purchasing system is under development.
+
+# Disclaimer and Legal Notice
+
+Refer at [this page](/DISCLAIMER.md).

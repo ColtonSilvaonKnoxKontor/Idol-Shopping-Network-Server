@@ -75,3 +75,32 @@ The author has provided this code and server emulator as a proof-of-concept for 
 
 5. Takedown & Responsible Inquiries
 The author is committed to ethical open-source research and responsible software archiving. Legitimate copyright or trademark owners with constructive inquiries or concerns may contact the maintainer directly for prompt review and resolution.
+
+# Takedown Request
+
+This project is an independent, non-commercial educational and software preservation
+effort created in good faith. The maintainer respects the intellectual property rights
+of all original creators, companies, and trademark holders.
+
+If you are the legitimate copyright or trademark owner of "Idol Shopping Network",
+"ISN", or any associated digital assets, and you wish to request the removal,
+modification, or takedown of any code, repository contents, or server assets:
+
+1. How to Contact the Maintainer:
+   Please reach out directly via GitHub Issue / Discussion.
+
+2. Information to Include in Your Request:
+   To help process your request quickly, please provide:
+   - Identification of the specific copyrighted work or trademark in question.
+   - The exact URL(s) or file paths within this repository you wish to have removed.
+   - Verification or statement that you are the rights holder or authorized to act on their behalf.
+   - Your preferred contact details for follow-up communication.
+
+3. Commitment to Prompt Action:
+   Upon receipt of a verified request from the legitimate rights holder:
+   - The maintainer will promptly review the notice within 24 to 48 hours.
+   - The requested assets, repository contents, or server endpoints will be voluntarily
+     removed or modified without the need for formal legal dispute.
+
+The maintainer is fully committed to responsible open-source research and will honor
+all legitimate requests in a timely and professional manner.

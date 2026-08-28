@@ -24,6 +24,8 @@ I prefer debian-based Linux distribution to serve the backend for ISN.
 
 Must have domain name, as most of the domain registrar offers cheap .online, .asia. or others with less than $2 for 1 year offer. And you may install cloudflared tunnel if you want to serve it using your own computer and if you are behind ISP's CGNAT. If you don't want to purchase domain name and don't want to expose the server to internet, you can use local IP address.
 
+> The only way to deploy the server and make it compatible with unmodified ISN apk (except the intercom chat system) is to buy the domain name of https://www.idolshoppingnetwork.com/.
+
 NGINX/Apache cookers (config your own).
 
 # Language used:
